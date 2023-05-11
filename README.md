@@ -113,7 +113,7 @@
 -----
   <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
   
------
+
 <!---
 dp21369/dp21369 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -125,5 +125,6 @@ You can click the Preview link to take a look at your changes.
 <p align="center" >   
   <img src="https://profile-counter.glitch.me/dp21369/count.svg" />  
 </p>
+-----
 -----
 <a href="https://app.daily.dev/devendrapali"><img src="https://api.daily.dev/devcards/abfbf8994bf94f4c90ccf97745bb08b6.png?r=aw7" width="400" alt="Devendra Pali's Dev Card"/></a>
