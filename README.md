@@ -44,34 +44,28 @@
         height="48" alt="Html5" />
       <br>HTML5
     </td>
-
     <td align="center" width="96">
       <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg"
         width="48" height="48" alt="Css3" />
       <br>CSS3
     </td>
-
     <td align="center" width="96">
       <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
       <br>Bootstrap
     </td>
-
     <td align="center" width="96">
       <img
         src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg"
         width="48" height="48" alt="javascript" />
       <br>Javascript
     </td>
-
   </tr>
-
   <tr>
     <td align="center" width="96">
       <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg"
         width="48" height="48" alt="PHP" />
       <br>PHP
     </td>
-
     <td align="center" width="96">
       <img src="https://cdn.worldvectorlogo.com/logos/wordpress-icon-1.svg" width="48" height="48" alt="WordPress" />
       <br>WordPress
@@ -80,32 +74,27 @@
       <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" width="48" height="48" alt="Photoshop" />
       <br>Photoshop
     </td>
-
     <td align="center" width="96">
       <img src="https://cdn.worldvectorlogo.com/logos/figma-5.svg" width="48" height="48" alt="Figma" />
       <br>Figma
     </td>
   </tr>
-
   <tr>
     <td align="center" width="96">
       <img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc-icon.svg" width="48" height="48"
         alt="Illustrator" />
       <br>Illustrator
     </td>
-
     <td align="center" width="96">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png"
         width="48" height="48" alt="Git" />
       <br>Git
     </td>
-
     <td align="center" width="96">
       <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="48"
         height="48" alt="Jamstack" />
       <br>VS Code
     </td>
-
   </tr>
 </table>
 
