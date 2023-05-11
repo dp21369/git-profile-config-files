@@ -102,7 +102,7 @@
 ## 📈 Github Stats
 
 <!-- https://github.com/dp21369/github-readme-stats -->
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="dp21369's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dp21369&show_icons=true&count_private=true&hide=&text_color=daf7dc&bg_color=151515" /></a>
+  <a href="#"><img alt="dp21369's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dp21369&show_icons=true&count_private=true&hide=&text_color=daf7dc&bg_color=151515" /></a>
 -----
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="dp21369's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dp21369&langs_count=10&layout=compact&text_color=daf7dc&bg_color=151515" /></a>
 -----
@@ -116,4 +116,8 @@ Last Edited on: 11/05/2023
 dp21369/dp21369 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+  <p align="center">
+  <img src="https://github.com/dp21369/dp21369/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+-----
 <a href="https://app.daily.dev/devendrapali"><img src="https://api.daily.dev/devcards/abfbf8994bf94f4c90ccf97745bb08b6.png?r=aw7" width="400" alt="Devendra Pali's Dev Card"/></a>
