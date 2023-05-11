@@ -118,8 +118,10 @@
 dp21369/dp21369 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-    
-<!-- retro visitor counter -->  
+  
+-----    
+<!-- retro visitor counter --> 
+## ♻️ Profile View Count
 <p align="center" >   
   <img src="https://profile-counter.glitch.me/dp21369/count.svg" />  
 </p>
