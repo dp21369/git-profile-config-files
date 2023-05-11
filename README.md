@@ -37,60 +37,62 @@
 
 ## 👨‍💻 Languages and Tools:
 
-<aside style="width:100% !important;">
-  <p>
-    <span style="width:25%; display: inline-block;">
+<table align="center" >
+  <tbody>
+  <tr>
+    <td align="center" width="25%">
       <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="48" height="48" alt="Html5" />
       <br>HTML5
-    </span>
-    <span style="width:25%; display: inline-block;">
+    </td>
+    <td align="center" width="25%">
       <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="48" height="48" alt="Css3" />
       <br>CSS3
-    </span>
-    <span style="width:25%; display: inline-block;">
+    </td>
+    <td align="center" width="25%">
       <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
       <br>Bootstrap
-    </span>
-    <span style="width:25%; display: inline-block;">
+    </td>
+    <td align="center" width="25%">
       <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" width="48" height="48" alt="javascript" />
       <br>Javascript
-    </span>
-  </p>
-  <p>
-    <span style="width:25%; display: inline-block;">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="25%">
       <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" width="48" height="48" alt="PHP" />
       <br>PHP
-    </span>
-    <span style="width:25%; display: inline-block;">
+    </td>
+    <td align="center" width="25%">
       <img src="https://cdn.worldvectorlogo.com/logos/wordpress-icon-1.svg" width="48" height="48" alt="WordPress" />
       <br>WordPress
-    </span>
-    <span style="width:25%; display: inline-block;">
+    </td>
+    <td align="center" width="25%">
       <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" width="48" height="48" alt="Photoshop" />
       <br>Photoshop
-    </span>
-    <span style="width:25%; display: inline-block;">
+    </td>
+    <td align="center" width="25%">
       <img src="https://cdn.worldvectorlogo.com/logos/figma-5.svg" width="48" height="48" alt="Figma" />
       <br>Figma
-    </span>
-  </p>
-  <p>
-    <span style="width:25%; display: inline-block;">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="25%">
       <img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc-icon.svg" width="48" height="48"
         alt="Illustrator" />
       <br>Illustrator
-    </span>
-    <span style="width:25%; display: inline-block;">
+    </td>
+    <td align="center" width="25%">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png"
         width="48" height="48" alt="Git" />
       <br>Git
-    </span>
-    <span style="width:25%; display: inline-block;">
+    </td>
+    <td align="center" width="25%">
       <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="48" height="48" alt="Jamstack" />
       <br>VS Code
-    </span>
-  </p>
-</aside>
+    </td>
+  </tr>
+  </tbody>
+</table>
 
 
 ## 📈 Github Stats
