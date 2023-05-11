@@ -50,7 +50,6 @@
       <br>CSS3
     </td>
     <td align="center" width="96">
-      >
       <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
       <br>Bootstrap
     </td>
@@ -82,7 +81,7 @@
   </tr>
   <tr>
     <td align="center" width="96">
-      <a hr <img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc-icon.svg" width="48" height="48"
+      <img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc-icon.svg" width="48" height="48"
         alt="Illustrator" />
       <br>Illustrator
     </td>
