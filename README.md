@@ -40,32 +40,38 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" width="48"
+      <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="48"
         height="48" alt="Html5" />
       <br>HTML5
     </td>
+
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/48px-CSS3_logo.svg.png"
+      <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg"
         width="48" height="48" alt="Css3" />
       <br>CSS3
     </td>
+
     <td align="center" width="96">
       <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
       <br>Bootstrap
     </td>
+
     <td align="center" width="96">
       <img
-        src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png"
+        src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg"
         width="48" height="48" alt="javascript" />
       <br>Javascript
     </td>
+
   </tr>
+
   <tr>
     <td align="center" width="96">
-      <img src="https://i.ibb.co/LzmYpDX/146-1466902-php-logo-png-transparent-php-logo-png-png-removebg-preview.png"
+      <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg"
         width="48" height="48" alt="PHP" />
       <br>PHP
     </td>
+
     <td align="center" width="96">
       <img src="https://cdn.worldvectorlogo.com/logos/wordpress-icon-1.svg" width="48" height="48" alt="WordPress" />
       <br>WordPress
@@ -74,11 +80,13 @@
       <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" width="48" height="48" alt="Photoshop" />
       <br>Photoshop
     </td>
+
     <td align="center" width="96">
       <img src="https://cdn.worldvectorlogo.com/logos/figma-5.svg" width="48" height="48" alt="Figma" />
       <br>Figma
     </td>
   </tr>
+
   <tr>
     <td align="center" width="96">
       <img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc-icon.svg" width="48" height="48"
@@ -91,11 +99,13 @@
         width="48" height="48" alt="Git" />
       <br>Git
     </td>
+
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48"
+      <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="48"
         height="48" alt="Jamstack" />
       <br>VS Code
     </td>
+
   </tr>
 </table>
 
