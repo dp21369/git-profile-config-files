@@ -102,11 +102,11 @@
 ## 📈 Github Stats
 
 <!-- https://github.com/dp21369/github-readme-stats -->
-<details>
+
   <summary>📊 GitHub Profile Stats</summary>
   <br/>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="dp21369's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dp21369&show_icons=true&count_private=true&hide=" /></a>
-</details>
+
 
 <details> 
   <summary>💻 Most used languages</summary>
