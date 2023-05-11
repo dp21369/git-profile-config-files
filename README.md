@@ -37,7 +37,7 @@
 
 ## 👨‍💻 Languages and Tools:
 
-<table align="left" style="width:100% ">
+<table align="left" style="width:100%">
   <tbody>
   <tr>
     <td align="center" width="25%">
