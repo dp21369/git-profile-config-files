@@ -4,8 +4,8 @@
 
 <p align="center">
   <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1"><img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?color=red&label=Subscribe&style=for-the-badge"/></a> 
-  <a href="https://www.youtube.com/c/DevProTips"><img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/youtube-api/view-count-badge-temp.php?label=Views&color=e1ad0e&style=for-the-badge#2"/></a> 
-  <a href="https://twitter.com/dp21369"><img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/dp21369?color=55960c&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://devendrapali.com.np"><img alt="Site" title="YouTube views" src="https://github.com/dp21369/dp21369/blob/main/icons/regular/star.svg"/></a> 
+  <a href="https://twitter.com/DevendraPali"><img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/dp21369?color=55960c&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
   <a href="https://github.com/dp21369"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/dp21369?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
   <a href="https://github.com/dp21369"><img alt="views" title="Github views" src="https://freshidea.com/jonah/app/ghpvc/"/></a>
 </p>
@@ -36,7 +36,7 @@
   <a href="https://twitter.com/DevendraPali"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://app.daily.dev/devendrapali"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"></a>
   <a href="https://www.instagram.com/dp21369/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://gist.github.com/dp21369"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/dp21369/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 
