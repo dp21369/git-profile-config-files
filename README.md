@@ -67,28 +67,32 @@
       <br>WordPress
     </td>
     <td align="center" width="25%">
-      <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" width="48" height="48" alt="Photoshop" />
-      <br>Photoshop
+      <img src="https://cdn.worldvectorlogo.com/logos/hubspot.svg" width="48" height="48" alt="HubSpot" />
+      <br>HubSpot
     </td>
-    <td align="center" width="25%">
-      <img src="https://cdn.worldvectorlogo.com/logos/figma-5.svg" width="48" height="48" alt="Figma" />
-      <br>Figma
+        <td align="center" width="25%">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png"
+        width="48" height="48" alt="Git" />
+      <br>Git
     </td>
   </tr>
   <tr>
+    <td align="center" width="25%">
+      <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" width="48" height="48" alt="Photoshop" />
+      <br>Photoshop
+    </td>
     <td align="center" width="25%">
       <img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc-icon.svg" width="48" height="48"
         alt="Illustrator" />
       <br>Illustrator
     </td>
     <td align="center" width="25%">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png"
-        width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="25%">
       <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="48" height="48" alt="Jamstack" />
       <br>VS Code
+    </td>
+    <td align="center" width="25%">
+      <img src="https://cdn.worldvectorlogo.com/logos/figma-5.svg" width="48" height="48" alt="Figma" />
+      <br>Figma
     </td>
   </tr>
   </tbody>
