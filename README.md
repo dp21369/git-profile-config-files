@@ -93,7 +93,7 @@
   </tr>
   </tbody>
 </table>
-<hr/>
+<p></p>
 ## 📈 Github Stats
 
 <!-- https://github.com/dp21369/github-readme-stats -->
