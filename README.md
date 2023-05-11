@@ -15,6 +15,7 @@
 <p align="center">
   <img src="https://github.com/dp21369/dp21369/blob/main/img/hello.gif" alt="Hello text"/>
 </p>
+-----
 * 👋 Hi, I’m Devendra Pali
 * 👀 I’m interested in Tech Idea, Coding, Web Design
 * 🌱 I’m currently learning free ideas
