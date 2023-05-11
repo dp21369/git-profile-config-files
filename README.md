@@ -102,17 +102,11 @@
 ## 📈 Github Stats
 
 <!-- https://github.com/dp21369/github-readme-stats -->
-
-  <br/>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="dp21369's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dp21369&show_icons=true&count_private=true&hide=" /></a>
-
-  <br/>
+-----
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="dp21369's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dp21369&langs_count=10&layout=compact#" /></a>
   <br/>
   <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
-
-
-
 -----
 Credits: [dp21369](https://github.com/dp21369)
 
