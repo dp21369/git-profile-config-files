@@ -38,15 +38,14 @@
 ## 👨‍💻 Languages and Tools:
 
 <table align="center">
+  <tbody>
   <tr>
     <td align="center" width="96">
-      <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="48"
-        height="48" alt="Html5" />
+      <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="48" height="48" alt="Html5" />
       <br>HTML5
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg"
-        width="48" height="48" alt="Css3" />
+      <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="48" height="48" alt="Css3" />
       <br>CSS3
     </td>
     <td align="center" width="96">
@@ -54,16 +53,13 @@
       <br>Bootstrap
     </td>
     <td align="center" width="96">
-      <img
-        src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg"
-        width="48" height="48" alt="javascript" />
+      <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" width="48" height="48" alt="javascript" />
       <br>Javascript
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg"
-        width="48" height="48" alt="PHP" />
+      <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" width="48" height="48" alt="PHP" />
       <br>PHP
     </td>
     <td align="center" width="96">
@@ -91,11 +87,11 @@
       <br>Git
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="48"
-        height="48" alt="Jamstack" />
+      <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="48" height="48" alt="Jamstack" />
       <br>VS Code
     </td>
   </tr>
+  </tbody>
 </table>
 
 ## 📈 Github Stats
