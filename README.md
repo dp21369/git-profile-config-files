@@ -116,8 +116,10 @@ Last Edited on: 11/05/2023
 dp21369/dp21369 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-  <p align="center">
-  <img src="https://github.com/dp21369/dp21369/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+    
+<!-- retro visitor counter -->  
+<p align="center" >   
+  <img src="https://profile-counter.glitch.me/dp21369/count.svg" />  
 </p>
 -----
 <a href="https://app.daily.dev/devendrapali"><img src="https://api.daily.dev/devcards/abfbf8994bf94f4c90ccf97745bb08b6.png?r=aw7" width="400" alt="Devendra Pali's Dev Card"/></a>
