@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1"><img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?color=red&label=Subscribe&style=for-the-badge"/></a> 
-  <a href="https://devendrapali.com.np"><img alt="Site" title="YouTube views" src="https://github.com/dp21369/dp21369/blob/main/icons/regular/star.svg"/></a> 
+  <a href="https://devendrapali.com.np"><img alt="Site" title="YouTube views" src="https://github.com/dp21369/dp21369/blob/main/icons/regular/star.svg" style="max-width:20px"/>DEVENDRAPALI.COM.NP</a> 
   <a href="https://twitter.com/DevendraPali"><img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/dp21369?color=55960c&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
   <a href="https://github.com/dp21369"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/dp21369?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
   <a href="https://github.com/dp21369"><img alt="views" title="Github views" src="https://freshidea.com/jonah/app/ghpvc/"/></a>
