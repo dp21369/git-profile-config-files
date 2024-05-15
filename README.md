@@ -25,7 +25,7 @@
 -----
 
 * <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp">  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32"></picture> Hi, I’m Devendra Pali
-* 👀 I’m interested in Tech Idea, Coding, Web Design
+* <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3af/512.webp" type="image/webp">  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3af/512.gif" alt="🎯" width="32" height="32"></picture> I’m interested in Tech Idea, Coding, Web Design
 * 🌱 I’m currently learning free ideas
 * 💞️ I’m looking to collaborate on Wordpress Design
 * 📫 How to reach me dp21369@gmail.com
