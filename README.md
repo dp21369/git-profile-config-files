@@ -35,7 +35,7 @@
 </p>
 
 
-## 🙋‍♂️ Connect with me:
+## <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="32" height="32"></picture> Connect with me:
 
 <p align="left">
   <a href="http://www.linkedin.com/in/devendra-pali"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
