@@ -113,7 +113,7 @@
 ## 📈 Github Stats
 
 <!-- https://github.com/dp21369/github-readme-stats -->
-  <a href="#" style="display:inline-block;width: 100%;text-align: center;"><img alt="dp21369's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dp21369&show_icons=true&count_private=true&hide=&text_color=daf7dc&bg_color=151515" /></a>
+  <a href="#" class="d-flex flex-justify-center"><img alt="dp21369's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dp21369&show_icons=true&count_private=true&hide=&text_color=daf7dc&bg_color=151515" /></a>
 -----
   <a href="https://github.com/anuraghazra/github-readme-stats" style="display:inline-block;width: 100%;text-align: center;"><img alt="dp21369's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dp21369&langs_count=10&layout=compact&text_color=daf7dc&bg_color=151515" /></a>
 -----
