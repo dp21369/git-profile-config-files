@@ -113,9 +113,9 @@
 ## 📈 Github Stats
 
 <!-- https://github.com/dp21369/github-readme-stats -->
-  <a href="#"><img alt="dp21369's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dp21369&show_icons=true&count_private=true&hide=&text_color=daf7dc&bg_color=151515" /></a>
+  <a href="#" style="display:inline-block;width: 100%;text-align: center;"><img alt="dp21369's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dp21369&show_icons=true&count_private=true&hide=&text_color=daf7dc&bg_color=151515" /></a>
 -----
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="dp21369's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dp21369&langs_count=10&layout=compact&text_color=daf7dc&bg_color=151515" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" style="display:inline-block;width: 100%;text-align: center;"><img alt="dp21369's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dp21369&langs_count=10&layout=compact&text_color=daf7dc&bg_color=151515" /></a>
 -----
   <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
   
@@ -134,4 +134,4 @@ You can click the Preview link to take a look at your changes.
 
 -----
 
-<a href="https://app.daily.dev/devendrapali"><img src="https://api.daily.dev/devcards/v2/SDOB8WqoF.png?r=0pb" width="356" alt="Devendra Pali's Dev Card"/></a>
+<a href="https://app.daily.dev/devendrapali" style="display:inline-block;width: 100%;text-align: center;"><img src="https://api.daily.dev/devcards/v2/SDOB8WqoF.png?r=0pb" width="356" alt="Devendra Pali's Dev Card"/></a>
