@@ -134,4 +134,4 @@ You can click the Preview link to take a look at your changes.
 
 -----
 
-<a href="https://app.daily.dev/devendrapali" style="display:inline-block;width: 100%;text-align: center;"><img src="https://api.daily.dev/devcards/v2/SDOB8WqoF.png?r=0pb" width="356" alt="Devendra Pali's Dev Card"/></a>
+<a href="https://app.daily.dev/devendrapali" class="d-flex flex-justify-center"><img src="https://api.daily.dev/devcards/v2/SDOB8WqoF.png?r=0pb" width="356" alt="Devendra Pali's Dev Card"/></a>
