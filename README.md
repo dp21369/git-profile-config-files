@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h3 align="center">Hey there, I'm <a href="https://devendrapali.com.np">DevendraPali</a> - aka dp21369 <picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.webp" type="image/webp">
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.webp" type="image/webp"> aka SUPERDEV
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" alt="⚡" width="32" height="32">
 </picture> <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.webp" type="image/webp">
@@ -134,4 +134,4 @@ You can click the Preview link to take a look at your changes.
 
 -----
 
-<a href="https://app.daily.dev/devendrapali" class="d-flex flex-justify-center"><img src="https://api.daily.dev/devcards/v2/SDOB8WqoF.png?r=0pb" width="356" alt="Devendra Pali's Dev Card"/></a>
+<a href="https://app.daily.dev/devendrapali" style="display:inline-block;width: 100%;text-align: center;"><img src="https://api.daily.dev/devcards/v2/SDOB8WqoF.png?r=0pb" width="356" alt="Devendra Pali's Dev Card"/></a>
