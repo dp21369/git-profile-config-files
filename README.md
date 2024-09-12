@@ -86,7 +86,7 @@
       <br>Photoshop
     </td>
     <td align="center" width="25%">
-      <img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc-icon.svg" width="48" height="48"
+      <img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc-3.svg" width="48" height="48"
         alt="Illustrator" />
       <br>Illustrator
     </td>
