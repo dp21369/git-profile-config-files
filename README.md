@@ -63,7 +63,7 @@
   </tr>
   <tr>
     <td align="center" width="25%">
-      <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" width="48" height="48" alt="PHP" />
+      <img src="https://www.php.net//images/logos/new-php-logo.svg" width="48" height="48" alt="PHP" />
       <br>PHP
     </td>
     <td align="center" width="25%">
