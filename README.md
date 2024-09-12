@@ -112,8 +112,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dp21369&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### ✍️ Dev Quote
+![](<b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=dp21369&limit=5&theme=dark&combine_all_yearly_contributions=true)
@@ -123,16 +123,7 @@
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/dp21369m) 
-
-## 📈 Github Stats
-
-<!-- https://github.com/dp21369/github-readme-stats -->
-  <a href="#" class="d-flex flex-justify-center"><img alt="dp21369's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dp21369&show_icons=true&count_private=true&hide=&text_color=daf7dc&bg_color=151515" /></a>
------
-  <a href="https://github.com/anuraghazra/github-readme-stats" style="display:inline-block;width: 100%;text-align: center;"><img alt="dp21369's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dp21369&langs_count=10&layout=compact&text_color=daf7dc&bg_color=151515" /></a>
------
-  <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
-  
+ 
 
 <!---
 dp21369/dp21369 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
