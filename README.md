@@ -131,7 +131,7 @@ You can click the Preview link to take a look at your changes.
 -----    
 <!-- retro visitor counter --> 
 ## ♻️ Profile View Count
-<p align="center" >   
+<p align="center" style="width: 100%;">   
   <img style="width: 100%;" src="https://profile-counter.glitch.me/dp21369/count.svg" />  
 </p>
 
